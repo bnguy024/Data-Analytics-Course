@@ -10,3 +10,4 @@ Result: Training the set based soley on color the decision tree classifier made 
 Training the dataset on only LEGO set color causes a lot of false positive and false negative predictions. Further training on more features of the set such as a combination of number of parts and colors could result in a more precise prediction. 
 
 
+![Screenshot 2022-06-30 133226](https://user-images.githubusercontent.com/56170523/176762142-1a116807-4cb7-4374-8b94-b7de0ba9a5c3.png)
